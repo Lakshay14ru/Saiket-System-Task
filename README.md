@@ -4,7 +4,7 @@ A simple and user-friendly command-line based To-Do List Application developed u
 
 The application is designed for beginners to understand core Python programming concepts such as lists, dictionaries, loops, conditional statements, exception handling, and menu-driven programs.
 
----
+--- 
 
 # Features
 
