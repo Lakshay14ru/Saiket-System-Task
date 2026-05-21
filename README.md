@@ -1,7 +1,3 @@
-Here’s a professional and extended GitHub project description you can use in your README for your To-Do List Application project.
-
----
-
 # To-Do List Application
 
 A simple and user-friendly command-line based To-Do List Application developed using Python. This project allows users to efficiently manage their daily tasks by adding new tasks, viewing existing tasks, and marking tasks as completed.
